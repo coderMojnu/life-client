@@ -1,0 +1,17 @@
+.nav-link {
+color: white !important;
+}
+.navbar-brand {
+    color: white !important;
+}
+@media only screen and (max-width: 600px) {
+    .nav-item {
+        margin-left: 50px;
+        font-size: 1.2em;
+        margin-top: 7px;
+        background-color: blue;
+        text-align: center;
+        width: 150px;
+        border-radius: 7px;
+    }
+}
